@@ -1,0 +1,29 @@
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.Form1.resources
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\QLSV.csproj.CopyComplete
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\LBL\Downloads\46.01.104.015-Trần Công Bình\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\bin\Debug\System.Data.SqlClient.dll
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\bin\Debug\System.Data.SqlClient.xml
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.Form1.resources
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.csproj.CopyComplete
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\Lab03.pdb
+D:\Nam 3 HK 2\Bảo mật CSDL\Lab 3 cá nhân -46.01.104.097-Lê Bảo Lộc\Lab03 - cá nhân - 46.01.104.097 - Lê Bảo Lộc\Lab03\Lab03\obj\Debug\QLSV.Form2.resources

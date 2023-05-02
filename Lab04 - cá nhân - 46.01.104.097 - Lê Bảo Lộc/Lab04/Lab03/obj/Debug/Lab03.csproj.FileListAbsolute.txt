@@ -1,0 +1,13 @@
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\bin\Debug\System.Data.SqlClient.dll
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\bin\Debug\System.Data.SqlClient.xml
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.CopyComplete
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\BẢO MẬT CSDL\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb
